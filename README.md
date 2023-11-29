@@ -1,2 +1,3 @@
 # AetheticsProject
  
+By utilizing network and CPU datasets, we sought to illustrate the pulse of life within biology. The rhythmic pattern of the pulses of our TouchDesigner presentation is meant to represent how all life responds to the same heartbeat within ourselves, and the waveforms showcase the resonance within all forms of biology. We also utilized an RGB color set in order to illustrate the common three primary colors represented in life and electronic systems and to show the connection in both organic and inorganic objects.
